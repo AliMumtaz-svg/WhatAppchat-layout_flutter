@@ -24,7 +24,7 @@ A beginner-friendly Flutter project that recreates a WhatsApp-style chat interfa
 1. Clone this repository:
 
    ```bash
-   git clone whatapp-chat
+   git clone WhatAppchat-layout_flutter
    ```
 
 2. Open the project in VS Code.
